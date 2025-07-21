@@ -1,6 +1,6 @@
 Scenario is build from two items, image and .lua.
 
-To isntall scenario you need to do this steps:
+To install scenario you need to do this steps:
   1. Download scenario( .jpg + .lua)
   2. Open your BAR install directory ( usally it's C:\Users\%YOUR_USER%\AppData\Local\Programs\Beyond-All-Reason where you replace %YOUR_USER% ith your actual user.
   3. Then go \data\LuaMenu\configs\gameConfig\byar\scenarios if you don't have any of these folders, create them carefully. Their names are case sensitive
